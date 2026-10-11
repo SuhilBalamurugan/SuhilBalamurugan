@@ -2,14 +2,10 @@
 
 Student developer and researcher at Diamond Bar High School interested in artificial intelligence, computational medicine, and natural language processing.
 
----
-
 ###  Research & Technical Interests
 - **AI in Healthcare:** Researching machine learning applications in surgical robotics and clinical workflows under a Cal Poly professor.
 - **Affective Computing & NLP:** Developing machine learning classification systems for textual and behavioral emotion detection.
 - **Biomedical Modeling:** Applying statistical and quantitative techniques to clinical datasets.
-
----
 
 ###  Achievements & Leadership
 - **Academic Standing:** 4.0 Unweighted / 4.62 Weighted GPA
@@ -21,13 +17,9 @@ Student developer and researcher at Diamond Bar High School interested in artifi
 - **Co-Founder** – DBHS National Speech and Debate Association (NSDA) chapter.
 - **Vice President** – Diamond Bar High School Class of 2028.
 
----
-
 ### Languages & Tools
 - **Languages:** Python, Markdown
 - **Libraries & Tools:** Scikit-Learn, Pandas, NumPy, NLTK, Git, GitHub
-
----
 
 ### Connect With Me
 - **School Email:** 316403@stu.wvusd.org
