@@ -1,4 +1,4 @@
-# Hi, I'm Suhil V. Balamurugan 👋
+# Hi, I'm Suhil V. Balamurugan 
 
 Student developer and researcher at Diamond Bar High School interested in artificial intelligence, computational medicine, and natural language processing.
 
